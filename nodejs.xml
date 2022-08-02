@@ -1,0 +1,8 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/bin/node" />
+    <local-interpreter path="/usr/bin/node" />
+    <local-interpreter path="$USER_HOME$/Workspace/XingShan/src/api/node_modules/nodemon/bin/nodemon.js" />
+  </component>
+</application>
