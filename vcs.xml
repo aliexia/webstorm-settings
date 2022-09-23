@@ -10,6 +10,10 @@
           <option name="url" value="http://61.183.163.194:10101" />
           <option name="userName" value="wanghailong" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://codeup.aliyun.com" />
+          <option name="userName" value="hilong" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
